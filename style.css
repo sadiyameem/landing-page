@@ -1,0 +1,13 @@
+body {
+    background-color: #1f2937;
+}
+
+.header {
+    font-family: "Roboto", sans-serif;
+    color: white;
+}
+
+ul {
+    list-style-type: none;
+    color: gray;
+}
