@@ -2,12 +2,20 @@ body {
     background-color: #1f2937;
 }
 
+.header {
+    font-family: 'Roboto', sans-serif;
+    color: #f9faf8;
+    font-size: 24px;
+    font-weight: 900;
+}
+
 .hero {
     /* background-color: #1f2937; */
     color: #f9faf8;
-    font-family: "Roboto", sans-serif;
+    font-family: 'Roboto', sans-serif;
     font-size: 48px;
     font-weight: 900;
+    /* margin-top: 250px; */
 }
 
 .hero-sec {
@@ -19,4 +27,9 @@ ul {
     color: #f9faf8;
     font-size: 24px;
     list-style-type: none;
+    display: flex;
+    margin-left: 900px;
+    gap: 16px;
+    position: absolute;
+    top: 0;
 }
