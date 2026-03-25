@@ -1,12 +1,22 @@
-.hero {
+body {
     background-color: #1f2937;
+}
+
+.hero {
+    /* background-color: #1f2937; */
     color: #f9faf8;
     font-family: "Roboto", sans-serif;
     font-size: 48px;
     font-weight: 900;
 }
 
+.hero-sec {
+    font-size: 18px;
+    color: #e5e7eb;
+}
+
 ul {
+    color: #f9faf8;
+    font-size: 24px;
     list-style-type: none;
-    color: gray;
 }
