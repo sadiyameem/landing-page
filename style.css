@@ -63,5 +63,17 @@ button {
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-left: 1075px;
+    margin-left: 1055px;
+}
+
+.split-container {
+    background-color: white;
+    display: flex;
+    justify-content: center;
+}
+
+.box1 {
+    width: 140px;
+    height: 140px;
+    border: solid #3882f6;
 }
