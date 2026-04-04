@@ -68,8 +68,10 @@ button {
 
 .split-container {
     background-color: white;
+    text-align: center;
     display: flex;
     justify-content: center;
+    
 }
 
 .box1, .box2, .box3, .box4 {
@@ -77,6 +79,8 @@ button {
     height: 140px;
     border: solid #3882f6;
     border-radius: 15px;
-    display: inline-block;
     margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 20px;
+    margin-left: 20px;
 }
