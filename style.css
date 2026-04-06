@@ -74,16 +74,19 @@ button {
     
 }
 
-.info-header {
+/* h1 {
     width: 140px;
     height: 140px;
+    font-size: 12px;
+    color: #1f2937;
+    font-weight: 900;
     border: solid #3882f6;
     border-radius: 15px;
     margin-top: 100px;
-    margin-bottom: 100px;
+    margin-bottom: 100px; 
     margin-right: 20px;
     margin-left: 20px;
-}
+} */
 
 /* #quote-text {
     background-color: #e5e7eb;
