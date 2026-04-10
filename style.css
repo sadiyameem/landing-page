@@ -66,37 +66,16 @@ button {
     margin-left: 1055px;
 }
 
-/* #info-header {
-    background-color: #f9faf8;
-    text-align: center;
-    display: flex;
-    justify-content: center;
-    
-} */
-
-/* .info-header {
-    background-color: #f9faf8;
-    text-align: center;
-    display: flex;
-    justify-content: center;
-    font-size: 36px;
-    font-weight: 900;
+.container {
+    background-color: white;
 }
 
-.box1 {
-    width: 200px;
-    height: 200px;
-    border: 2px solid blue;
-    padding: 10px;
-    margin: 10px;
-    flex-direction: column;
-} */
-
-.title {
+.info-header-text {
   background-color: white;  
   font-size: 36px;
   font-weight: 900;
-  margin-bottom: 32px;
+  padding-top: 20px;
+  padding-bottom: 32px;
   text-align: center;
 }
 
@@ -111,6 +90,7 @@ button {
   padding: 10px;
   margin: 10px;
   border-radius: 10px;
+  align-items: flex-end;
 }
 
 .container {
