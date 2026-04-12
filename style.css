@@ -114,6 +114,14 @@ button {
     font-size: 36px;
     color: #1f2937;
     font-weight: normal;
+    padding-top: 20px;
+    padding-bottom: 32px;
+    margin: 0;
+}
+
+#quote-text p {
+    text-align: right;
+    font-weight: 900;
 }
 
 /* #cta {
