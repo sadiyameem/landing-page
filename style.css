@@ -103,9 +103,27 @@ button {
   max-width: 200px;
 }
 
-/* #quote-text {
-    background-color: #e5e7eb;
+#quote-text {
+    background-color: lightgrey;
     font-size: 16px;
     color: #1f2937;
-    font-weight: 300;
+    font-weight: 300px;
+}
+
+#quote-text h1 {
+    font-size: 36px;
+    color: #1f2937;
+    font-weight: normal;
+}
+
+/* #cta {
+    background-color: white;
+}
+
+#cta h4 {
+    background-color: #3882f6;
+}
+
+#cta p {
+    background-color: #3882f6;
 } */
