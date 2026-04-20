@@ -37,7 +37,7 @@ ul {
     top: 0;
 }
 
-button {
+.button1 {
     background-color: #3882f6;
     border: none;
     color: white;
@@ -124,14 +124,33 @@ button {
     font-weight: 900;
 }
 
-#footer {
+#cta {
     background-color: white;
     border: 0;
     margin: 0;
-    padding: 0;
-    padding-top: 20px;
-    padding-bottom: 32px;
+    padding: 20px 32px;
 }
 
+#footer {
+    background-color: #3882f6;
+    color: white;
+    padding: 10px;
+    margin: 10px;
+}
+
+.button2 {
+    background-color: #3882f6;
+    border: white;
+    color: white;
+    font-size: 12px;
+    padding: 10px;
+    text-align: center;
+    display: inline-block;
+    margin: 4px 2px;
+    margin-left: 110px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+/*keep it in a box*/
     /* padding: 10px;
     margin: 10px; */
