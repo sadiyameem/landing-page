@@ -37,7 +37,7 @@ ul {
     top: 0;
 }
 
-.button1 {
+.button {
     background-color: #3882f6;
     border: none;
     color: white;
@@ -48,7 +48,6 @@ ul {
     margin: 4px 2px;
     margin-left: 110px;
     border-radius: 10px;
-    cursor: pointer;
 }
 
 .box {
@@ -138,19 +137,15 @@ ul {
     margin: 10px;
 }
 
-.button2 {
+#button2 {
     background-color: #3882f6;
-    border: white;
+    border: 2px solid white;
     color: white;
     font-size: 12px;
     padding: 10px;
     text-align: center;
     display: inline-block;
-    margin: 4px 2px;
-    margin-left: 110px;
+    direction: left;
+    margin-left: 500px;
     border-radius: 10px;
-    cursor: pointer;
 }
-/*keep it in a box*/
-    /* padding: 10px;
-    margin: 10px; */
